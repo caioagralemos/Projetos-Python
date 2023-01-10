@@ -1,5 +1,4 @@
 import random
-
 def guess(x):
     numero = random.randint(1,x)
     guess = int(input(f"\nChute um número de 1 a {x}: "))
