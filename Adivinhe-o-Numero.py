@@ -40,6 +40,6 @@ if (opcao == "1"):
 elif(opcao == "2"):
     cpu_guess(100)
 else:
-    print("\nOpção inválida!\n")
+    print("\nOpção inválida! Tente novamente\n")
 
-print("Pressione qualquer botão pra encerrar o programa!\n")
+print("Pressione qualquer botão pra encerrar o programa\n")
