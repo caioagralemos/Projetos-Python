@@ -42,4 +42,4 @@ elif(opcao == "2"):
 else:
     print("\nOpção inválida!\n")
 
-print("Pressione qualquer botão pra encerrar o programa\n")
+print("Pressione qualquer botão pra encerrar o programa!\n")
